@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/guide_cnn.iml" filepath="$PROJECT_DIR$/.idea/guide_cnn.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/A Guide to TF Layers Building a Convolutional Neural Network.iml" filepath="$PROJECT_DIR$/.idea/A Guide to TF Layers Building a Convolutional Neural Network.iml" />
+>>>>>>> f8fc34ab0ecc2dbf45ec80fe8bece6ba996680d1
     </modules>
   </component>
 </project>

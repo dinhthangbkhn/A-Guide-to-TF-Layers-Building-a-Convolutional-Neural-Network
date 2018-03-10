@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.5 (tensorflow-dev)" project-jdk-type="Python SDK" />
+<<<<<<< HEAD
+=======
+  <component name="PythonCompatibilityInspectionAdvertiser">
+    <option name="version" value="2" />
+  </component>
+>>>>>>> f8fc34ab0ecc2dbf45ec80fe8bece6ba996680d1
 </project>
